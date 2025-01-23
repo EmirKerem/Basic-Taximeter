@@ -1,0 +1,3 @@
+C:/Users/Emir/CLionProjects/basic-taximeter/cmake-build-debug/CMakeFiles/basic_taximeter.dir
+C:/Users/Emir/CLionProjects/basic-taximeter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emir/CLionProjects/basic-taximeter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
